@@ -6,7 +6,7 @@
 
 This project tracks and analyzes key performance indicators (KPIs) across revenue, customer behavior, and marketing channel effectiveness, allowing stakeholders to identify patterns, assess strategies, and uncover opportunities for increased profitability and customer loyalty.
 
----
+----
 
 ## 📊 Dataset Overview
 
